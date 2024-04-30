@@ -1,0 +1,12 @@
+@import url(../style.css);
+
+body{
+ background-image: url(../assets/mountains-universe-1.png);
+}
+
+.content {
+  margin: 39.3rem auto 0;
+  align-items: center;
+  gap: 2.4rem;
+  text-align: center;
+}
